@@ -2,7 +2,7 @@
 /**
  * User: renqiang
  * Date: 17/2/20
- * Time: 下午23:22
+ * Time: 下午23:40
  */
 namespace renqiang;
 class Curl{
